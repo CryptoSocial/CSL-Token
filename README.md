@@ -6,11 +6,11 @@
 
 CryptoSocial is an open and democratic junction of the best of what Facebook, and Bitcointalk offer while maintaining freedom of expression for all users.
 
-Sign up at [Cryptosocial.World](https://cryptosocial.world)
+Create an account at:  [cryptosocial.world](https://cryptosocial.world)
 
-Visit our Telegram: [Telegram](https://t.me/cryptosocial)
+Visit our [Telegram](https://t.me/cryptosocial)
 
-Follow us on Twitter:  [Twitter](https://twitter.com/_cryptosocial)
+Follow us on [Twitter](https://twitter.com/_cryptosocial)
 
 ## **PURPOSE BUILT FOR CRYPTO COMMUNITY INTERACTION**
 
