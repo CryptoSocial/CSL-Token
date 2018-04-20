@@ -9,6 +9,7 @@ CryptoSocial is an open and democratic junction of the best of what Facebook, an
 Create an account at:  [cryptosocial.world](https://cryptosocial.world)
 
 Visit our [Telegram](https://t.me/cryptosocial)
+(https://img.shields.io/badge/Telegram-2.8k%20members-blue.svg)](https://t.me/cryptosocial)
 
 Follow us on [Twitter](https://twitter.com/_cryptosocial)
 
