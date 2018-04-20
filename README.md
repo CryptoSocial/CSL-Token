@@ -26,4 +26,6 @@ Discover a dedicated environment revolving around the unique demands of cryptocu
 
 **SUPPLY:** 21,000,000
 
-**CONTRACT:** 0x275FD328C3986be83f8b60f79c73cf63Fde98Ca5
+**CONTRACT:**
+``` 0x275FD328C3986be83f8b60f79c73cf63Fde98Ca5
+```
