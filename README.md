@@ -16,7 +16,7 @@ Follow us on [Twitter](https://twitter.com/_cryptosocial)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/_CryptoSocial)
 
-## **PURPOSE BUILT FOR CRYPTO COMMUNITY INTERACTION**
+## **PURPOSE BUILT FOR COMMUNITY INTERACTION**
 
 Discover a dedicated environment revolving around the unique demands of cryptocurrency culture that rewards contribution via PROOF OF INTERACTIVITY.
 
